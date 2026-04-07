@@ -7,7 +7,7 @@ This is a simple, fast, and interactive web-based calculator built using Python 
 You can try out the calculator right now directly in your browser!
 (https://huggingface.co/spaces/SOHAIBSUL123/SimpleCalculator)
 
-*(Note: Replace the text in the brackets above with the actual link to your Hugging Face Space!)*
+
 
 ## ✨ Features
 This calculator supports the following operations:
